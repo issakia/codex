@@ -88,7 +88,7 @@ const handleSubmit = async (e) => {
 
     // const response = await fetch('https://codex-im0y.onrender.com/', {
 
-    const response = await fetch('http://localhost:5040', {
+    const response = await fetch('https://codex-z9d9.onrender.com/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
